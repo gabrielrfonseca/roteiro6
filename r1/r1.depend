@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1505778126 source:c:\users\dell\desktop\program\ide\derzu\r1\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	"relogio.h"
+
+1505779481 "
+
+1505778241 c:\users\dell\desktop\program\ide\derzu\r1\relogio.h
+
+1505778001 source:c:\users\dell\desktop\program\ide\derzu\r1\relogio.cpp
+	"relogio.h"
+
+1505779481 source:c:\users\dell\desktop\program\ide\roteiro 6\r1\relogio.cpp
+	"relogio.h"
+
+1505779050 c:\users\dell\desktop\program\ide\roteiro 6\r1\relogio.h
+
+1505825947 source:/home/aluno/Desktop/r1/relogio.cpp
+	"relogio.h"
+
+1505779052 /home/aluno/Desktop/r1/relogio.h
+
