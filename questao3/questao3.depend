@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1506394595 source:c:\users\dell\desktop\program\ide\roteiro 6\questao3\main.cpp
+	<iostream>
+	"RestauranteCaseiro.h"
+
+1506394427 c:\users\dell\desktop\program\ide\roteiro 6\questao3\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
+1506394427 c:\users\dell\desktop\program\ide\roteiro 6\questao3\include\mesaderestaurante.h
+	<string>
+	"Pedido.h"
+	<iostream>
+
+1506394427 c:\users\dell\desktop\program\ide\roteiro 6\questao3\include\pedido.h
+	<stdio.h>
+	<string>
+
+1506394736 source:c:\users\dell\desktop\program\ide\roteiro 6\questao3\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1506394427 source:c:\users\dell\desktop\program\ide\roteiro 6\questao3\src\pedido.cpp
+	"Pedido.h"
+
+1506394737 source:c:\users\dell\desktop\program\ide\roteiro 6\questao3\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+
